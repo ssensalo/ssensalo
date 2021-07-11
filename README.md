@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Create (Badges)[https://shields.io/] for your skills.
+Use (Gifs)[https://gfycat.com/] for your expressions.
+Add more pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=intercom_desktop&theme=blueberry)](https://github.com/hongvinhmobile/intercom_desktop)
+Know how many visitors are viewing your github using (Hits)[https://hits.seeyoufarm.com/]
+
 -->
