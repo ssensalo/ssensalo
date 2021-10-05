@@ -4,11 +4,11 @@ Its nice to see you ✨✨✨
 ## GitHub Stats
  <p align="center">
     <img
-        width="49%"
+        width="48%"
         src="https://github-readme-stats.vercel.app/api?username=ssensalo&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
-        width="49%"
+        width="48%"
          src="https://github-readme-streak-stats.herokuapp.com/?user=ssensalo&theme=tokyonight"
     />
 </p>
