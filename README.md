@@ -5,17 +5,18 @@ Its nice to see you ✨✨✨
  <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=ssensalo&count_private=true&include_all_commits=true&show_icons=true&theme=merko&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=ssensalo&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=ssensalo&theme=merko"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=ssensalo&theme=tokyonight"
     />
 </p>
 
 <!--
 **ssensalo/ssensalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+      src="https://github-readme-streak-stats.herokuapp.com?user=ssensalo&theme=merko" 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
