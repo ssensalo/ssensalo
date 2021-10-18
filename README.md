@@ -34,4 +34,7 @@ Add more pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=intercom_desktop&theme=blueberry)](https://github.com/hongvinhmobile/intercom_desktop)
 Know how many visitors are viewing your github using (Hits)[https://hits.seeyoufarm.com/]
 
+Connect with me
+<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+
 -->
