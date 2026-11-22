@@ -37,6 +37,25 @@ Its nice to see you ✨✨✨
           alt="ssensalo"
     />
 </p>
+<!-- WakaTime stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/ssensalo#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=ssensalo&range=all_time&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28All%20Time%29&disable_animations=true"
+      alt="My Wakatime stats"
+    />
+  </a>
+</div>
+
+<!-- WakaTime stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/ssensalo#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=ssensalo&range=all_time&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28All%20Time%29&disable_animations=true"
+      alt="My Wakatime stats"
+    />
+  </a>
+</div>
 
 <!--
 **ssensalo/ssensalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
