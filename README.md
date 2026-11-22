@@ -1,15 +1,17 @@
 ### Hi there 👋
 Its nice to see you ✨✨✨
 
-## GitHub Stats
- <p align="center">
+## Stats
+ <p>
     <img
-        width="48%"
+         align="left"
         src="https://github-stats-extended.vercel.app/api?username=ssensalo&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&include_all_commits=true&show=prs_merged_percentage,prs_reviewed"
         alt="ssensalo"
     />
+</p>
+ <p>
     <img
-        width="48%"
+         align="center"
          src="https://github-readme-streak-stats.herokuapp.com/?user=ssensalo&theme=tokyonight"
           alt="ssensalo"
     />
