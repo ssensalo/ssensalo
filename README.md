@@ -28,7 +28,7 @@ Its nice to see you ✨✨✨
  <p>
     <img
          width=48%
-        src="https://github-stats-extended.vercel.app/api?username=ssensalo&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&include_all_commits=true&show=prs_merged_percentage,prs_reviewed"
+        src="https://github-stats-extended.vercel.app/api?username=ssensalo&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&disable_animations=true&include_all_commits=true&show=prs_merged_percentage,prs_reviewed"
         alt="ssensalo"
     />
     <img
