@@ -11,7 +11,7 @@ Its nice to see you ✨✨✨
 </p>
  <p>
     <img
-         align="center"
+         align="right"
          src="https://github-readme-streak-stats.herokuapp.com/?user=ssensalo&theme=tokyonight"
           alt="ssensalo"
     />
