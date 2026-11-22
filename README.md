@@ -33,10 +33,32 @@ Its nice to see you ✨✨✨
     />
     <img
          width=48%
-         src="https://github-readme-streak-stats.herokuapp.com/?user=ssensalo&theme=tokyonight"
+         src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ssensalo&locale=en&type=svg&fire=2d77dc&ring=2d77dc&disable_animations=true&theme=tokyonight"
           alt="ssensalo"
     />
 </p>
+<!--
+<!-- Streak stats (Light mode) 
+<div align="center">
+  <a href="https://github.com/ssensalo#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ssensalo&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&disable_animations=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+
+<!-- Streak stats (Dark mode) 
+<div align="center">
+  <a href="https://github.com/ssensalo#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ssensalo&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+-->
 <!-- WakaTime stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/ssensalo#gh-light-mode-only">
