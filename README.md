@@ -5,7 +5,7 @@ Its nice to see you ✨✨✨
  <p align="center">
     <img
         width="48%"
-        src="https://github-readme-stats.vercel.app/api?username=ssensalo&show_icons=true&locale=en&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=ssensalo&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&include_all_commits=true"
         alt="ssensalo"
     />
     <img
